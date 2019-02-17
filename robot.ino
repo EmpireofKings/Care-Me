@@ -1,5 +1,6 @@
 #include<SPI.h>
 #include<RF24.h>
+#include <Servo.h>
 #define enA 9
 #define in1 4
 #define in2 5
