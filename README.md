@@ -5,7 +5,7 @@
   - uses Google Cloud libraries to process input from webcam microphone recording
   - button activated
   - microphone is recorded via bash script call
-### robot.ino - (H-Bridge, 
+### robot.ino  
   - initiates robot movement upon reciept of radio transcievers
   - sensor to detect lines and follow lines based on light (photo resistor)
   - DC motors apply high torque to handle more load and reliablity 
